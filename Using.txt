@@ -1,0 +1,1 @@
+Para usar, basta iniciar o .ConfigRdp.py (python .ConfigRdp.py), preencher as informações requisitadas e verificar a área de trabalho, o atalho chegará lá após as informações serem preenchidas, caso queira colocar um ícone personalizado, basta adicionar uma imagem de extensão *.bmp com o nome icone.bmp na raiz da pasta.
